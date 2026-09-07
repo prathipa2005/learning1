@@ -1,1 +1,2 @@
 Hi im prathipa
+im practising git command
