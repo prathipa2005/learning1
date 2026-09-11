@@ -1,0 +1,2 @@
+hi
+this is prathipa creating file to work in linux  and push into git using linux terminal
